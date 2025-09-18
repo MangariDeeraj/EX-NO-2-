@@ -145,7 +145,7 @@ int prepare(char str[], int ptrs) {
     return ptrs;
 }
 
-// Encryption
+// Encryption   
 void encrypt(char str[], char keyT[5][5], int ps) {
     int i, a[4];
     for (i = 0; i < ps; i += 2) {
