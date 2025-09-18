@@ -19,7 +19,6 @@ To encrypt a message, one would break the message into digrams (groups of 2 lett
 3.	If the letters appear on the same column of your table, replace them with the letters immediately below respectively
 4.	If the letters are not on the same row or column, replace them with the letters on the same row respectively but at the other pair of corners of the rectangle defined by the original pair.
 ## EXAMPLE:
-![image](https://github.com/Hemamanigandan/EX-NO-2-/assets/149653568/e6858d4f-b122-42ba-acdb-db18ec2e9675)
 
  
 
@@ -252,7 +251,7 @@ int main() {
 
 ## Output:
 
-<img width="929" height="782" alt="image" src="https://github.com/user-attachments/assets/f185026b-6523-41e9-a693-4ab54f883c0e" />
+<img width="910" height="769" alt="image" src="https://github.com/user-attachments/assets/a4378463-eb4d-4a9a-a1fe-bb8f5c4aa0ce" />
 
 ## RESULT :-
 
